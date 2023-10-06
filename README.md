@@ -10,6 +10,8 @@ Introduction à l'analyse de données
 
 🟰 Analyse des indicateurs de l'égalité homme femme a l'aide de KNIME
 
+📚 Optimisez la festion des données d'une boutique avec Python
+
 
 Chaque dossier contient le notebook Python et la présentation PDF du projet.
 
