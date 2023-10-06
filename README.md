@@ -8,6 +8,9 @@ Introduction à l'analyse de données
 
 💵 Détection de faux billets
 
+🟰 Analyse des indicateurs de l'égalité homme femme a l'aide de KNIME
+
+
 Chaque dossier contient le notebook Python et la présentation PDF du projet.
 
 Pré-requis au lancement des notebooks :
